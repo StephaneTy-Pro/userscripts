@@ -1,0 +1,12 @@
+/*
+
+// @resource    customCSS   https://raw.github.com/gist/xxx/xxx/xxx.css 
+ou
+// @resource    customCSS   https://raw.github.com/StephaneTy-Pro/userscripts/about.css
+
+// var cssTxt  = GM_getResourceText("customCSS");
+
+https://snippets.aktagon.com/snippets/556-how-to-create-a-custom-userstyle-stylesheet-with-greasemonkey
+https://stackoverflow.com/questions/23683439/gm-addstyle-equivalent-in-tampermonkey
+*/
+body {background-color: red;}
