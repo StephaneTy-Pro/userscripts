@@ -1,3 +1,7 @@
+/*
+SRC : https://stackoverflow.com/questions/9899372/pure-javascript-equivalent-of-jquerys-ready-how-to-call-a-function-when-t
+*/
+
 (function(funcName, baseObj) {
     "use strict";
     // The public function name defaults to window.docReady
