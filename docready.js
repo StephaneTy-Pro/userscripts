@@ -1,5 +1,24 @@
 /*
 SRC : https://stackoverflow.com/questions/9899372/pure-javascript-equivalent-of-jquerys-ready-how-to-call-a-function-when-t
+
+USAGE
+// pass a function reference
+docReady(fn);
+
+// use an anonymous function
+docReady(function() {
+    // code here
+});
+
+// pass a function reference and a context
+// the context will be passed to the function as the first argument
+docReady(fn, context);
+
+// use an anonymous function with a context
+docReady(function(context) {
+    // code here that can use the context argument that was passed to docReady
+}, ctx);
+
 */
 
 (function(funcName, baseObj) {
