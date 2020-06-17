@@ -4,5 +4,8 @@ https://github.com/Bartozzz/queue-promise
 
 > NOTE STT semble ne pas fonctionner en intégration user script
 
-#
-Compilé sous typescript playground
+# reqqueu
+Sequential request queue for Node.js and browsers. No dependencies. http://reqqueue.github.soncodi.com
+https://github.com/soncodi/reqqueue
+
+> NOTE STT  Compilé sous typescript playground
