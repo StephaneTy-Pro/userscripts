@@ -9,3 +9,9 @@ Sequential request queue for Node.js and browsers. No dependencies. http://reqqu
 https://github.com/soncodi/reqqueue
 
 > NOTE STT  Compilé sous typescript playground
+
+# p-queue
+Promise queue with concurrency control 
+src :  https://github.com/sindresorhus/p-queue
+
+> NOTE STT Compilé via evanw/esbuild
